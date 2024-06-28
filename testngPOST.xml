@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/APIAutomationRestAssured/src/test/java/org/example/POST">
         <classes>
-            <class name="org.example.POST.BDDStylePOST">
+            <class name="CRUD.POST.BDDStylePOST">
                 <methods><include name="testBDDStylePOSTPositive"/></methods>
             </class>
         </classes>

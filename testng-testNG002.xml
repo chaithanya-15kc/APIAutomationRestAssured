@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/APIAutomationRestAssured">
         <classes>
-            <class name="org.example.TestNG_Examples.TestNG002">
+            <class name="TestNG.TestNG002">
             </class>
         </classes>
     </test>

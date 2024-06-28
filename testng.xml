@@ -3,30 +3,30 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/APIAutomationRestAssured">
         <classes>
-            <class name="org.example.GET.GETRequestNonBDDTestNG">
+            <class name="CRUD.GET.GETRequestNonBDDTestNG">
                 <methods>
                     <include name="testGetAllBookingNegative"/>
                     <include name="testGetAllBookingNegative2"/>
                     <include name="testGetAllBookingPositive"/>
                 </methods>
             </class>
-            <class name="org.example.POST.BDDStylePOST">
+            <class name="CRUD.POST.BDDStylePOST">
                 <methods>
                     <include name="testBDDStylePOSTPositive"/>
                 </methods>
             </class>
-            <class name="org.example.POST.NONBDDStylePOST">
+            <class name="CRUD.POST.NONBDDStylePOST">
                 <methods>
                     <include name="testNonBDDStylePOSTPositive"/>
                 </methods>
             </class>
-            <class name="org.example.TestNG_Examples.TestNG001">
+            <class name="TestNG.TestNG001">
                 <methods>
                     <include name="demo4"/>
                     <include name="demo5"/>
                 </methods>
             </class>
-            <class name="org.example.TestNG_Examples.priority_demo">
+            <class name="TestNG.priority_demo">
                 <methods>
                     <include name="demo2"/>
                     <include name="demo3"/>
