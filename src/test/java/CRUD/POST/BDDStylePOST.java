@@ -8,7 +8,7 @@ public class BDDStylePOST {
 
     @Test
     public void testBDDStylePOSTPositive(){
-        //POST resquest
+        //POST request
         //URL
         //Body - Payload -JSON
         //HEADERS - Content-type

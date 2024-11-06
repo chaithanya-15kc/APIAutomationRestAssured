@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/APIAutomationRestAssured">
+        <groups>
+            <run>
+                <include name="sanity"></include>
+                <include name="reg"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="TestNG.TestNG007"></class>
+            <class name="TestNG.TestNG005"></class>
+            <class name="TestNG.TestNG004"></class>
+        </classes>
+    </test>
+</suite>
